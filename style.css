@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(55, 216, 230);
+}
+body.night{
+    background-color: #035;
+}
+.circle {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle.moon {
+    background-color: #bbc;
+}
